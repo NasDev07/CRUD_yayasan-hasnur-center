@@ -1,3 +1,16 @@
+## Hasil Demo
+Home Page
+![home page](https://user-images.githubusercontent.com/71059706/179363004-d7138f51-b44d-43a1-a202-3306d222a535.png)
+
+Home Tambah
+![home tambah](https://user-images.githubusercontent.com/71059706/179363030-09ff0107-3e0e-46dc-8015-831a72f08528.png)
+
+Home Edit
+![home edit](https://user-images.githubusercontent.com/71059706/179363047-a9dfff2b-7e09-4733-9556-a7ba6570ad96.png)
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
